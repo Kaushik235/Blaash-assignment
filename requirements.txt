@@ -1,0 +1,9 @@
+flask_ngrok
+flask
+better-profanity
+pyspellchecker
+textblob
+badwords
+pyenchant
+#profanity_filter
+datetime
